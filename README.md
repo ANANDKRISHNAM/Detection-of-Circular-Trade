@@ -9,7 +9,7 @@ The dataset given is iron dealers data which contains information about invoices
 - **Undirected Graph Construction**: An undirected graph is then constructed based on suspicion scores and the number of 2-cycles and 3-cycles between nodes.
 - **Node Embeddings and Clustering**: Node2Vec is utilized to learn embeddings for nodes in the undirected graph. The DBSCAN algorithm is applied to identify dense regions of nodes, indicating potential fraudulent behavior.
 
-##Results
+## Results
 
 <img width="631" alt="image" src="https://github.com/ANANDKRISHNAM/Detection-of-Circular-Trade/assets/40604290/bf58e4d7-4d0b-4ad1-bc78-00f916b90c50">
 
